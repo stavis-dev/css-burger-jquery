@@ -1,5 +1,6 @@
 # css-burger-jquery
 burger menu on jquery test
+[demo](https://stavis-dev.github.io/css-burger-jquery/) can see
 
 Меню на большом компьютере
 
